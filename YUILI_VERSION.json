@@ -1,0 +1,14 @@
+{
+  "version": "2026-09-23-union-84w-78p-r2",
+  "canonical_name": "優利筆記_主版本.html",
+  "canonical_library_id": "libfile_c5c836ac35f481918d4d2c13af67fe37",
+  "github_file": "index.html",
+  "sha256": "d2e9ea703cddeb1c30f17f05eaed138da703466b59fbd438f9f1805690484d9c",
+  "words": 84,
+  "phrases": 78,
+  "detail_pages": 162,
+  "examples": 510,
+  "challenge_questions": 50,
+  "update_rule": "先讀取固定主版本的最新內容，再修改並保存同一檔案的新版本；GitHub index.html 與主版本須為相同內容。",
+  "verification": "全版本詞條合併覆蓋、無重複詞條或 HTML ID、頁內連結完整、每項至少三組雙語例句；尚未在手機瀏覽器實測。"
+}
