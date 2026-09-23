@@ -1,16 +1,10 @@
 {
-  "version": "2026-09-23-learning-r4",
-  "base": "R3 grammar layout, canonical saved version 5",
-  "canonical_library_id": "libfile_c5c836ac35f481918d4d2c13af67fe37",
+  "version": "2026-09-23-speech-r5",
   "words": 84,
   "phrases": 83,
   "grammar_items": 34,
-  "grammar_status_counts": {
-    "需優先改進": 6,
-    "剛建立": 18,
-    "持續穩定": 10,
-    "已熟悉": 0
-  },
-  "sha256": "cf0896aa56ca59dec92bd1d37b3fc2553624bb3455d69c312ee2d3fd4750ff15",
-  "update_rule": "後續先讀取優利筆記_主版本.html 的最新保存版本，再更新同一主檔。"
+  "audio_pages": 167,
+  "canonical_library_id": "libfile_c5c836ac35f481918d4d2c13af67fe37",
+  "sha256": "22760a3d550d956b5ceb40ebcd913652ae9c34fb1d422836e17d5f1d2f3f0974",
+  "update_rule": "先讀取固定主檔最新保存版本，再更新同一檔案。"
 }
