@@ -1,10 +1,9 @@
 {
-  "version": "2026-09-23-speech-r5",
+  "version": "2026-09-24-us-ipa-r6",
+  "base": "R5 canonical saved version 7",
   "words": 84,
   "phrases": 83,
   "grammar_items": 34,
-  "audio_pages": 167,
   "canonical_library_id": "libfile_c5c836ac35f481918d4d2c13af67fe37",
-  "sha256": "22760a3d550d956b5ceb40ebcd913652ae9c34fb1d422836e17d5f1d2f3f0974",
-  "update_rule": "先讀取固定主檔最新保存版本，再更新同一檔案。"
+  "sha256": "ec146aae0d2d1d2f4de0c4302079f29dc39e7ba327649f940ee6d517b3c3f55b"
 }
