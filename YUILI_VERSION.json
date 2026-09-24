@@ -1,9 +1,10 @@
 {
-  "version": "2026-09-24-us-ipa-r6",
-  "base": "R5 canonical saved version 7",
+  "version": "2026-09-24-voice-grid-r7",
+  "base": "R6 / canonical version 8",
   "words": 84,
   "phrases": 83,
   "grammar_items": 34,
+  "game_bank": "existing 84 word cards; CEFR deferred at user request; phrases deferred",
   "canonical_library_id": "libfile_c5c836ac35f481918d4d2c13af67fe37",
-  "sha256": "ec146aae0d2d1d2f4de0c4302079f29dc39e7ba327649f940ee6d517b3c3f55b"
+  "sha256": "2fbb5d53c44e806e16d616137b5b280fe7f8e94c6497196aaa8655c5cfad3b18"
 }
